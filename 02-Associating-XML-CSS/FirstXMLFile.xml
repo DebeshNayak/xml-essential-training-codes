@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?> <!-- XML declaration -->
+<?xml-stylesheet type="text/css" href="FirstXMLFile.css" ?> <!-- XML Processing -->
+
+<FistTag>
+	This is our first XML file
+	<!-- This is a comment in the file -->
+</FistTag>
